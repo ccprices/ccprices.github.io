@@ -1,3 +1,59 @@
+Ram Kennel: 4200000c - 4500000c
+Ram Kennel: 3300000c - 3500000c
+Dragon Lair: 22500c - 27500c
+Dragon Lair: 30000c - 35000c
+Bunny Kennel: 15000c - 18000c
+Bunny Kennel: 21000c - 24000c
+Dog Kennel: 2500c - 3000c
+Dog Kennel: 7000c - 8000c
+Kitty Kennel: 2500c - 3000c
+Kitty Kennel: 7000c - 8000c
+Wuvva Pig Kennel: 500000c - 600000c
+Wuvva Pig Kennel: 600000c - 650000c
+Chick Coop: 180000c - 210000c
+Chick Coop: 180000c - 200000c
+Black Cat Kennel: 1400000c - 1600000c
+Black Cat Kennel: 600000c - 650000c
+Pumpkin Kennel: 720000c - 750000c
+Pumpkin Kennel: 600000c - 650000c
+Spider Den: 120000c - 140000c
+Spider Den: 120000c - 140000c
+Mutant Hopper House: 45000c - 55000c
+Mutant Hopper House: 65000c - 85000c
+Mutant MeeMew Kennel: 5000c - 7000c
+Mutant MeeMew Kennel: 10000c - 12500c
+Mutant Doog Kennel: 3000c - 5000c
+Mutant Doog Kennel: 9000c - 12000c
+Mutant Ram Kennel: 100000c - 125000c
+Mutant Ram Kennel: 100000.0c - 130000.0c
+Mutant Wuvva Pig Kennel: 3500c - 4500c
+Mutant Wuvva Pig Kennel: 6000c - 8000c
+Ostrich Pit: 200000c - 220000c
+Ostrich Pit: 250000c - 280000c
+Kangaroo Kennel: 250000c - 300000c
+Kangaroo Kennel: 200000c - 230000c
+Turkey Kennel: 35000c - 40000c
+Turkey Kennel: 40000c - 45000c
+Elf Hut: 70000c - 90000c
+Elf Hut: 70000c - 80000c
+Reindeer Kennel: 12000c - 16000c
+Reindeer Kennel: 18000c - 24000c
+Snowman Kennel: 30000c - 37500c
+Snowman Kennel: 37500c - 45000c
+Penguin Pad: 25000c - 30000c
+Penguin Pad: 22500c - 27500c
+Husky Kennel: 10000c - 15000c
+Husky Kennel: 18000c - 22000c
+Mini Grouch Kennel: 3500c - 4500c
+Mini Grouch Kennel: 10000c - 12500c
+Mini Krampus Kennel: 2500c - 3500c
+Mini Krampus Kennel: 9000c - 12000c
+Model N Station: 35000c - 40000c
+Model N Station: 45000c - 50000c
+Model F Station: 15000c - 20000c
+Model F Station: 25000c - 30000c
+Model C Station: 7000c - 8000c
+Model C Station: 12000c - 15000c
 Top Hat: 80c - 120c
 Feather Hat: 50c - 100c
 Beany: 25c - 75c
@@ -1135,3 +1191,25 @@ Yule Sweater: 12000c - 18000c
 Handbell: 1750c - 2250c
 Tambourine: 3000c - 5000c
 Chamberstick: 3000c - 5000c
+Tractor Keys: 2000c - 3000c
+Dorkmobile Keys: 3000c - 3500c
+Sportsmobile Keys: 6000c - 8000c
+Spudbuggy Key: 11000c - 13000c
+Pinkster Key: 13000c - 17000c
+Offroader Keys: 22500c - 27500c
+Luxoride EKey: 35000c - 40000c
+Moon Buggy Key: 27500c - 35000c
+Luvmobile Key: 525000c - 550000c
+Easterider Keys: 500000.0c - 550000.0c
+Bunnymobile Key: 90000c - 130000c
+Dracu Mobile Key: 75000c - 90000c
+Floating Witch's Broom Key: 115000c - 135000c
+Haunted Carriage: 90000c - 120000c
+Sled Key: 90000c - 110000c
+Rocket Sled: 240000c - 280000c
+Christmas Key: 7000c - 11000c
+Rocket Key: 20000c - 25000c
+Golden Rocket Key: 35000c - 50000c
+Blue Bunnyhop Mount: 50000c - 70000c
+White Bunnyhop Mount: 50000c - 70000c
+Rollercoaster Car: 5000c - 6500c

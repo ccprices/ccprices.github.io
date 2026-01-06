@@ -338,11 +338,11 @@ Least Fool's Cap: 9000c - 12000c
 Motley Shirt: 300000c - 350000c
 Motley Pants: 480000c - 520000c
 Jester Pack: 13000c - 18000c
-Jester's Cane: 175000c - 200000c
+Jester's Cane: 230000c - 260000c
 Clown Mask: 80000c - 110000c
 Dirt Block Hat: 6500c - 8500c
 Banana Split Hat: 25000c - 35000c
-Beaglepuss: 10000c - 17500c
+Beaglepuss: 17500c - 25000c
 Hipno Shadez: 40000c - 60000c
 Hypno Shades: 8000c - 12000c
 Worn Hat: 5000c - 7000c
@@ -356,10 +356,10 @@ Lightbulb Hat: 8000c - 12000c
 Golden Egg Costume: 320000c - 350000c
 Rainbow Umbrella: 350000c - 450000c
 RoboSlyme Costume: 300000c - 330000c
-Red Balloon: 250000c - 280000c
+Red Balloon: 200000c - 230000c
 RoboZilla Head: 20000c - 25000c
-Easter Umbrella: 2000000c - 2100000c
-Umbrella: 330000c - 360000c
+Easter Umbrella: 2100000c - 2300000c
+Umbrella: 310000c - 340000c
 New Easter Umbrella: 3000c - 4500c
 Red Cherry Blossom Umbrella: 2000c - 3000c
 Pink Cherry Blossom Umbrella: 1750c - 2250c
@@ -374,7 +374,7 @@ Easter Tophat: 20000c - 25000c
 Easter Bonnet: 10000c - 20000c
 Easter Hat: 15000c - 20000c
 Purple Easter Hat: 17000c - 22000c
-White Boater Hat: 30000c - 35000c
+White Boater Hat: 35000c - 50000c
 Blue Ant Cap: 200c - 400c
 Red Ant Cap: 200c - 400c
 Duck Hat: 35000.0c - 40000.0c
@@ -443,7 +443,7 @@ Chick Shirt: 700c - 1200c
 Chick Pants: 700c - 1200c
 Bunny Umbrella: 1000c - 1700c
 Easter Staff: 10000c - 12500c
-Rainbow Halo: 210000c - 240000c
+Rainbow Halo: 270000c - 300000c
 Rainbow Glasses: 45000c - 55000c
 Easter Sweater: 5000.0c - 8000.0c
 Rainbow Backpack: 150000c - 170000c
@@ -533,7 +533,7 @@ Red Tuxedo Top: 70000c - 80000c
 Red Tuxedo Pants: 40000c - 50000c
 Red Dress Top: 3000c - 4000c
 Red Dress: 3000c - 4000c
-Heart Umbrella: 22500c - 27500c
+Heart Umbrella: 25000c - 30000c
 Cupid Bow: 500c - 1000c
 Cupid Wig: 200c - 400c
 Cupid Wings 2: 750.0c - 1250.0c
@@ -569,7 +569,7 @@ UV Shades: 1150000c - 1300000c
 Scuba Mask: 210000c - 230000c
 Blue Hawaiian Shirt: 190000c - 220000c
 Black Hawaiian Shirt: 45000c - 55000c
-Hairy Guy On The Beach Chest: 40000c - 50000c
+Hairy Guy On The Beach Chest: 180000c - 200000c
 Hairy Guy On The Beach Thong: 200000c - 220000c
 Black Bikini Top: 60000c - 80000c
 Black Bikini Bottoms: 200000c - 230000c
@@ -617,7 +617,7 @@ Safety Vest: 2000c - 5000c
 Watermelon Hat: 800c - 1500c
 Pineapple Hat: 800c - 1500c
 Lemon Hat: 800c - 1500c
-Qbeets Headphone: 5000c - 8000c
+Qbeets Headphone: 15000c - 30000c
 Enlarged Qbee Head: 1000c - 2000c
 Queen Cyborg Head: 5000c - 10000c
 Cyclops Eye Mask: 1000c - 2000c
@@ -628,8 +628,8 @@ Princess Tiara: 350c - 550c
 Tincan Helmet: 600c - 1000c
 AFK Cap: 700c - 1500c
 Cookie Hat: 150c - 250c
-Golden Tuxedo Shirt: 12500c - 20000c
-Golden Tuxedo Pants: 12500c - 20000c
+Golden Tuxedo Shirt: 4500c - 6000c
+Golden Tuxedo Pants: 4500c - 6000c
 Police Shirt: 250c - 450c
 Police Pants: 250c - 450c
 Pig Head: 300c - 500c
@@ -685,9 +685,9 @@ Ghost Costume: 1500000c - 1700000c
 Slyme Costume: 330000c - 360000c
 Dino Head: 300000c - 330000c
 Monster Head: 500000c - 550000c
-Shark Head: 170000c - 200000c
+Shark Head: 150000c - 180000c
 Werewolf Head: 100000c - 130000c
-Pyramid Head: 50000c - 60000c
+Pyramid Head: 60000c - 70000c
 Twobee Head: 25000c - 30000c
 Beakbee Head: 9000c - 12000c
 Toothbee Head: 9000c - 12000c
@@ -722,10 +722,10 @@ Skinless Head: 1000c - 1500c
 Skinless Shirt: 1000c - 1500c
 Skinless Pants: 1000c - 1500c
 Skellie Suit Shirt: 7000c - 10000c
-Skellie Suit Pants: 16000c - 20000c
+Skellie Suit Pants: 10000c - 13000c
 Dark Traveller Head: 8000c - 11000c
-Dark Traveller Top: 20000c - 30000c
-Dark Traveller Pants: 80000c - 90000c
+Dark Traveller Top: 20000c - 25000c
+Dark Traveller Pants: 80000c - 85000c
 Mummy Wrap Head: 4000c - 6000c
 Mummy Wrap Shirt: 10000c - 15000c
 Mummy Wrap Pants: 50000c - 60000c
@@ -742,7 +742,7 @@ Killer Mask: 250c - 450c
 Ninja Mask: 750c - 1250c
 Katana on Back: 6500c - 8500c
 Ninja Shirt: 1000c - 1500c
-Ninja Pants: 3000c - 4000c
+Ninja Pants: 5000c - 6000c
 Dinosaur Hood: 30000c - 35000c
 Dinosaur Shirt: 6000c - 8000c
 Dinosaur Pants: 6000c - 8000c
@@ -772,7 +772,7 @@ Pumpkin Basket: 6000c - 10000c
 Devil's Pitchfork: 12000c - 17000c
 Giant Needle: 650c - 1000c
 Ogre Club: 500c - 1000c
-Trumpet Hat: 240000c - 270000c
+Trumpet Hat: 290000c - 310000c
 Beard: 620000c - 670000c
 Plaid Hunting Cap: 400000c - 450000c
 Turkey Head: 20000c - 30000c
@@ -784,8 +784,8 @@ Dry Leaf Staff: 450c - 750c
 Dry Leaf Mask: 350c - 550c
 Dry Leaves Top: 350c - 550c
 Dry Leaves Pants: 350c - 550c
-Acorn Hat: 100c - 200c
-Acorn Backpack: 600c - 1000c
+Acorn Hat: 300c - 600c
+Acorn Backpack: 1000c - 1500c
 Brown Suit: 2000c - 3000c
 Brown Pants: 2000c - 3000c
 Pilgrim Hat Bush: 500c - 1000c
@@ -811,8 +811,8 @@ Autumn Hawaiian: 6000c - 8000c
 Boy Scout Cap: 1000c - 1500c
 Boy Scout Shirt: 1000c - 1500c
 Boy Scout Pants: 1000c - 1500c
-Acorn Mask: 500c - 1000c
-Acorn Shirt: 750c - 1250c
+Acorn Mask: 1500c - 2000c
+Acorn Shirt: 2000c - 3000c
 Turkey Leg Balloon: 700c - 1200c
 Autumn Umbrella: 3000c - 4000c
 Turkey Umbrella: 1000c - 1500c
@@ -834,7 +834,7 @@ Hiker's Backpack: 1000c - 1500c
 Maple Umbrella: 3000c - 4000c
 Hatchet: 30000c - 40000c
 Mr. Christmas Costume: 270000c - 300000c
-Snowman Costume: 28000c - 33000c
+Snowman Costume: 30000c - 37500c
 Christmas Giftbox Costume: 2500c - 4000c
 Krampus Mask: 2300000c - 2500000c
 Krampus Mask 2018: 75000c - 85000c
@@ -873,15 +873,15 @@ Ugly Christmas Sweater: 175c - 250c
 Christmas Outfit: 100c - 200c
 Elf Glasses: 100c - 200c
 Christmas Glasses: 100c - 200c
-Orange & Yellow Scarf: 500000c - 700000c
+Orange & Yellow Scarf: 550000c - 600000c
 Blue & White Scarf: 45000c - 55000c
 Red & Green Scarf: 11000c - 15000c
 Starry Scarf: 47000c - 55000c
 Purple Scarf: 3000c - 4500c
 Xmas Scarf: 450c - 800c
 Winter Scarf: 2000c - 3000c
-Gift BackPack 2: 5000c - 6000c
-Gift BackPack: 5000c - 6000c
+Gift BackPack 2: 6000c - 9000c
+Gift BackPack: 6000c - 9000c
 Santa Pack: 12000c - 17000c
 Icy Wings: 300c - 600c
 Winter Umbrella: 60000c - 70000c
@@ -1032,7 +1032,7 @@ Apple Head: 1250c - 1750c
 Scarecrow Head: 3000c - 4000c
 Scarecrow Shirt: 2500c - 3500c
 Scarecrow Pants: 2500c - 3500c
-Log Head: 10000c - 15000c
+Log Head: 8000c - 13000c
 Wooden Shirt: 400c - 700c
 Wooden Pants: 400c - 700c
 Raccoon Head: 800c - 1300c
@@ -1052,13 +1052,13 @@ Snowman Head: 1750c - 2250c
 Peppermint Head: 1750c - 2250c
 Cocoa Head: 1750c - 2250c
 Candy Cane Sword: 350c - 700c
-Frost Crown: 500c - 1000c
+Frost Crown: 300c - 600c
 Icicle Nose: 150c - 300c
 Rudolph Head: 1500c - 2000c
 Rudolph Shirt: 500c - 1000c
 Rudolph Pants: 500c - 1000c
 Red & White Scarf: 4000c - 5000c
-Candy Cane Backpack: 700c - 1200c
+Candy Cane Backpack: 300c - 600c
 Red Gift Bow Backpack: 1750c - 2250c
 2025 Headband: 300.0c - 600.0c
 Gold Lightstick: 300.0c - 600.0c
@@ -1168,11 +1168,11 @@ Octopus Balloon: 1000c - 1500c
 Clown Balloon: 200c - 500c
 Bear Balloon: 200c - 500c
 Skeleton Staff: 8000c - 12000c
-Sewer Slyme Costume: 15000c - 20000c
+Sewer Slyme Costume: 12000c - 16000c
 Pumpkin Umbrella: 1000c - 1500c
 Bone Crown: 800c - 1300c
 Spider Glasses: 800c - 1300c
-Skull Backpack: 800c - 1300c
+Skull Backpack: 1000c - 1500c
 Zombie Charm Hat: 800c - 1300c
 Battle Axe: 800c - 1300c
 Pumpkin Head 2025: 10000c - 15000c
@@ -1188,7 +1188,7 @@ Santa Nightcap: 2000c - 2500c
 Santa Pajama Shirt: 2000c - 2500c
 Santa Pajama Pants: 2000c - 2500c
 Yule Sweater: 12000c - 18000c
-Handbell: 1750c - 2250c
+Handbell: 1300c - 1800c
 Tambourine: 3000c - 5000c
 Chamberstick: 3000c - 5000c
 Tractor Keys: 2000c - 3000c
@@ -1199,11 +1199,11 @@ Pinkster Key: 13000c - 17000c
 Offroader Keys: 22500c - 27500c
 Luxoride EKey: 35000c - 40000c
 Moon Buggy Key: 27500c - 35000c
-Luvmobile Key: 525000c - 550000c
+Luvmobile Key: 400000c - 450000c
 Easterider Keys: 500000.0c - 550000.0c
 Bunnymobile Key: 90000c - 130000c
 Dracu Mobile Key: 75000c - 90000c
-Floating Witch's Broom Key: 115000c - 135000c
+Floating Witch's Broom Key: 150000c - 170000c
 Haunted Carriage: 90000c - 120000c
 Sled Key: 90000c - 110000c
 Rocket Sled: 240000c - 280000c
